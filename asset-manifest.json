@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react22/static/css/main.abcbcb28.css",
+    "main.js": "/react22/static/js/main.6c5ac1da.js",
+    "static/media/me.png": "/react22/static/media/me.46ee85fb01260c32f25f.png",
+    "index.html": "/react22/index.html",
+    "main.abcbcb28.css.map": "/react22/static/css/main.abcbcb28.css.map",
+    "main.6c5ac1da.js.map": "/react22/static/js/main.6c5ac1da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abcbcb28.css",
+    "static/js/main.6c5ac1da.js"
+  ]
+}
